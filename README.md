@@ -95,10 +95,10 @@ Select store and date range
 View predicted sales visually
 
 # Results
-# SARIMA performed well for seasonal trends
-# LSTM captured complex patterns
-# ARIMA provided baseline results
- Improved forecasting accuracy using hybrid approach
+SARIMA performed well for seasonal trends
+LSTM captured complex patterns
+ARIMA provided baseline results
+Improved forecasting accuracy using hybrid approach
 
  
  # Deployment
